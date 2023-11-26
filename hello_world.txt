@@ -1,0 +1,2 @@
+my name is ashutosh singh 
+this is my first git repository
